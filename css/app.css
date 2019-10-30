@@ -18,21 +18,11 @@ body{
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 
-code { 
-	position:absolute;
-	left:26%;
-	margin: 0 auto;
-    background-color: transparent;
-    display: block;
-    color: rgba(9, 255, 45, 0.14);
-    font-size: 1.6em;
-    opacity:0.3;
-}
 
 
 .item-text-container{
 	margin:0 auto;
-	width:70%;
+
 }
 
 
